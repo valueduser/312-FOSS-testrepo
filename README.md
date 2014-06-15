@@ -1,4 +1,4 @@
-# Week 2 Assignment: FOSS Survey Results #
+## Week 2 Assignment: FOSS Survey Results ##
 
 ### Project 1: EverPad https://github.com/nvbn/everpad ###
 <p> As a Linux user, I am forced to use the web app version of Evernote to take and review class notes, recipes, and articles of interest. While the Evernote rarely discusses developing or future projects, it appears that there are no current plans for a native Linux client. While the Windows version can be run in Wine, there exists a few projects to bring an Evernote client to Linux including one called Everpad. EverPad leverages Evernote's API to allow for the creation, modification and syncing of notes between a Linux machine and the user's Evernote account in the cloud on the official Evernote servers. </p>
@@ -14,3 +14,10 @@
 <p>In summary, EverPad would benefit from bug fixes to ensure its installation base as well as code commenting to encourage additional developer support. As the number of commits have declined in the past months, it is critical developer interest returns for the survival of the project. </p>
 
 ### Project 2: Transdroid https://github.com/erickok/transdroid ###
+<p>Transdroid is a remote torrent client manager for Android. It doesn't store torrents or file contents on the phone but can manage the torrent activity for a remote computer or seedbox. Transdroid has existed since 2009 and has a fairly large user base (Google estimates it is on the order of 10,000 – 50,000) with many users uncounted as only a lite version of the app is available on the Google Play store. </p>
+
+<p>The lead developer, erickok, actively encourages contributors to contact him by email or social media to get more information about the contribution process and best practices and licenses the code GPL v3.  The readme of the project contains a brief explanation of the code's structure and a reminder to respect coding standards to aid in merging. The code itself is well commented and organized in a way that improves the reader's understanding of the code. The developer has also listed a number of the libraries used in the project on the main page. </p>
+
+<p>Transdroid makes use of the GitHub issue tracker for assigning and evaluating bugs and has a dedicated website for update news,  release notes, and full version apks of the project. The issue tracker  has further evidence of a large install base and bugs with the lead developer commenting and answering several of the issues and feature requests. </p>
+
+<p>Transdroid has numerous opportunities to contribute including bug fixes, feature enhancements, and other added functionality. The project is in active development and could benefit from improvements to the developer readme as well as extending features such as torrent search on the full version. </p>
